@@ -22,7 +22,7 @@
 
 <h3 align="center"><b>🎓 Education</b></h3>
 <p align="center">
-  <b>삼성 청년 SW 아카데미 (SSAFY) 14기</b><br/>
+  <b>삼성 청년 SW·AI 아카데미 (SSAFY) 14기</b><br/>
   2025.07 ~ 현재<br/><br/>
   <b>포스코 청년 AI·빅데이터 아카데미 28기</b><br/>
   2024.09 ~ 2024.12 | 상위 5% 수료
