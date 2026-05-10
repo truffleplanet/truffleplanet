@@ -30,29 +30,6 @@
 
 ---
 
-<h3 align="center"><b>💼 Experience</b></h3>
-<p align="center">
-  <b>포항공과대학교 인공지능연구원</b><br/>
-  Voice Lab 연구인턴 | 2025.01 ~ 2025.02
-</p>
-
----
-
-<h3 align="center"><b>📬 Contact</b></h3>
-<p align="center">
-  <a href="mailto:kangseunghun9927@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a> &nbsp
-  <a href="https://truffleplanet.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
-</a>
-  <!-- <a href="https://www.linkedin.com/in/승훈-강-474929228" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-  </a> -->
-</p>
-
----
-
 <h3 align="center"><b>🏆 Problem Solving</b></h3>
 <p align="center">
   <a href="https://solved.ac/kangseunghun9927" target="_blank">
